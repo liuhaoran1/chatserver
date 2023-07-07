@@ -1,5 +1,5 @@
-#include "/home/lhr/Chat/include/server/model/groupmodel.hpp"
-#include "/home/lhr/Chat/include/server/db/db.h"
+#include "/home/lhr/Chat/chatserver/include/server/model/groupmodel.hpp"
+#include "/home/lhr/Chat/chatserver/include/server/db/db.h"
 
 // 创建群组
 bool GroupModel::createGroup(Group &group)

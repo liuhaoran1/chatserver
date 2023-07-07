@@ -1,4 +1,4 @@
-#include "/home/lhr/Chat/include/server/db/db.h"
+#include "/home/lhr/Chat/chatserver/include/server/db/db.h"
 #include <muduo/base/Logging.h>
 
 // 数据库配置信息

@@ -1,5 +1,5 @@
-#include "/home/lhr/Chat/include/server/model/usermodel.hpp"
-#include "/home/lhr/Chat/include/server/db/db.h"
+#include "/home/lhr/Chat/chatserver/include/server/model/usermodel.hpp"
+#include "/home/lhr/Chat/chatserver/include/server/db/db.h"
 #include <iostream>
 using namespace std;
 

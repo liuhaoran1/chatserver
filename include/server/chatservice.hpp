@@ -10,12 +10,12 @@ using namespace std;
 using namespace muduo;
 using namespace muduo::net;
 using json = nlohmann::json;
-#include "/home/lhr/Chat/include/server/model/user.hpp"
-#include "/home/lhr/Chat/include/server/model/offlinemessagemodel.hpp"
-#include "/home/lhr/Chat/include/server/model/friendmodel.hpp"
-#include "/home/lhr/Chat/include/server/model/groupmodel.hpp"
-#include "/home/lhr/Chat/include/server/model/usermodel.hpp"
-#include "/home/lhr/Chat/include/server/redis/redis.hpp"
+#include "/home/lhr/Chat/chatserver/include/server/model/user.hpp"
+#include "/home/lhr/Chat/chatserver/include/server/model/offlinemessagemodel.hpp"
+#include "/home/lhr/Chat/chatserver/include/server/model/friendmodel.hpp"
+#include "/home/lhr/Chat/chatserver/include/server/model/groupmodel.hpp"
+#include "/home/lhr/Chat/chatserver/include/server/model/usermodel.hpp"
+#include "/home/lhr/Chat/chatserver/include/server/redis/redis.hpp"
 
 
 //表示处理消息的事件回调方法
